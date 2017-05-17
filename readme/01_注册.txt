@@ -1,0 +1,7 @@
+注册需要在ActionServlet中给
+1.邮箱验证编写对应的else if(uri.equals("/validEmail"))
+
+2.验证码编写对应的else if(uri.equals("/validEmail"))
+
+delete from d_user where id=2;
+        commit;
